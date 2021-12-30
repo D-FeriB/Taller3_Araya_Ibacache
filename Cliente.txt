@@ -1,0 +1,3 @@
+Rut1,Diego,Iba,100000,Ovalle
+Rut2,Arturo,Longton,30000,Coquimbo
+Rut3,Pablo,Rioys,200000,Coquimbo
